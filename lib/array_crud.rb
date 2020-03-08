@@ -9,7 +9,7 @@ end
 
 array =  ["F","T","W","G"]
 def add_element_to_end_of_array(array, element)
-  element = "A"
+  
   array << element
 end
 
