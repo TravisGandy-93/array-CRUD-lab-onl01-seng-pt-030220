@@ -20,9 +20,9 @@ end
 
 def remove_element_from_end_of_array(array)
   array =  ["F","T","W","G"]
-  array.pop
+  bye = array.pop
 end
-
+puts bye
 
 def remove_element_from_start_of_array(array)
   
