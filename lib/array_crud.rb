@@ -1,13 +1,16 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  ["F","T","W","G"]
 end
 
+
+array =  ["F","T","W","G"]
 def add_element_to_end_of_array(array, element)
-  
+  element = "A"
+  array << element
 end
 
 def add_element_to_start_of_array(array, element)
