@@ -21,12 +21,12 @@ end
 def remove_element_from_end_of_array(array)
   array =  ["F","T","W","arrays!"]
   array.pop
-  puts array.inspect
 end
 
 
 def remove_element_from_start_of_array(array)
   array =  ["F","T","W","arrays!"]
+  
 end
 
 def retrieve_element_from_index(array, index_number)
