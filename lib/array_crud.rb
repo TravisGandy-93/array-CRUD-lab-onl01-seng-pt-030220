@@ -26,7 +26,7 @@ end
 
 
 def remove_element_from_start_of_array(array)
-  array =  ["F","T","W","arrays!"]
+  array =  
   array.shift
 end
 
